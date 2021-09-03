@@ -15,7 +15,7 @@ options(dplyr.print_min = 6, dplyr.print_max = 6)
 
 # Activate crayon output
 options(
-  crayon.enabled = TRUE,
+  crayon.enabled = FALSE,
   pillar.bold = TRUE,
   stringr.html = FALSE
 )
